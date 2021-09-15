@@ -3,4 +3,10 @@
 
 To use this command:
 
-Nightbot: !addcom
+Nightbot:
+
+Streanlabs:
+
+Streamelements:
+
+
