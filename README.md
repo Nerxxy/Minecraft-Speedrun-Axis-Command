@@ -1,2 +1,5 @@
-# axis-command
-Minecraft Speedrun Axis JSON 
+# Axis JSON for Minecraft Speedruning
+
+
+To use this command:
+Nightbot: !addcom
