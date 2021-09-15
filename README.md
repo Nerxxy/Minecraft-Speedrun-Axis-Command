@@ -1,4 +1,4 @@
-# Axis JSON for Minecraft Speedruning
+# Axis Command for Minecraft Speedruning
 
 Unfortunatly it seems like it will only work on Nightbot, if anyone finds a way to make it work on Streamlabs Chatbot or StreamElements bot please let me know and I will add them below, thanks!
 
