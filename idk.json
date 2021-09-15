@@ -1,17 +1,1 @@
-characters={
-    "ryuzaki": [
-        "shrewd",
-        "stoic",
-        "reclusive"
-    ],
-    "light": [
-        "ambitious",
-        "cunning",
-        "hubristic"
-    ],
-    "misa": [
-        "ditzy",
-        "childish",
-        "impulsive"
-    ]
-};
+characters = {"ryuzaki": ["shrewd", "stoic", "reclusive"], "light": ["ambitious", "cunning", "hubristic"], "misa": [ "ditzy", "childish", "impulsive"]};
